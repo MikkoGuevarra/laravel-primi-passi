@@ -8,6 +8,10 @@
     <body>
         <div class="container">
             <h1>Hello World</h1>
+            <h2>
+                My name is {{$name}}
+            </h2>
+            <h3>and</h3>
             <h2>I am learning Laravel</h2>
 
         </div>
